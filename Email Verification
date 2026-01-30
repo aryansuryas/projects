@@ -31,8 +31,7 @@
             font-size: 14px;
             margin-top: 5px;
         }
-
-        .field:has(input:valid:not(:placeholder-shown)) .box {
+    .field:has(input:valid:not(:placeholder-shown)) .box {
             border-color: rgb(28, 243, 0);
         }
 
